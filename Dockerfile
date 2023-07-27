@@ -17,5 +17,4 @@ RUN cargo build
 
 FROM rust:1.65-slim AS template-rust
 COPY --from=builder /app/target/debug/template-rust /usr/local/bin
-EXPOSE 80
 ENTRYPOINT ["/usr/local/bin/template-rust"]
