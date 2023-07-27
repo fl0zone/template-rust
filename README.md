@@ -51,7 +51,7 @@ Checkout our [Getting Started Guide](https://docs.fl0.com) in the FL0 documentat
 If you have any questions about FL0 or this template codebase please head on over to our [Discord channel](https://discord.gg/AmmVTt9Jrw).
 
 ## Issues
-Any issues or feature requests can be raised on the [Issues page](https://github.com/fl0zone/template-rust) of this repo.
+Any issues or feature requests can be raised on the [Issues page](https://github.com/fl0zone/template-rust/issues) of this repo.
 
 ## License
 This template repository is [MIT licensed](LICENSE).
