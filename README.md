@@ -48,7 +48,7 @@ Note: you can optionally set the `PORT` env var to see your app running on a por
 Checkout our [Getting Started Guide](https://docs.fl0.com) in the FL0 documentation!
 
 ## Questions
-If you have any questions about FL0 or this template codebase please head on over to our [Discord channel](https://discord.gg/AmmVTt9Jrw).
+If you have any questions about FL0 or this template codebase please head on over to our [Discord channel](https://discord.gg/QPXqWK3bVw).
 
 ## Issues
 Any issues or feature requests can be raised on the [Issues page](https://github.com/fl0zone/template-rust/issues) of this repo.
